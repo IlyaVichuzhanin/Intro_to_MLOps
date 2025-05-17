@@ -60,6 +60,5 @@ def fetch_weather(lat:str, lon:str):
                         weather['wind_speed']
                         ]
                     )
-                # print(weather_data)
                 writer.writerow(weather_data)
             

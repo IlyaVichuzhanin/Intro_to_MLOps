@@ -1,0 +1,8 @@
+numpy==2.2.5
+sklearn==1.6.1
+pandas==2.2.3
+joblib==1.5.0
+apache-airflow==3.0.0
+dotenv==0.9.9
+requests==2.32.3
+

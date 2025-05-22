@@ -186,9 +186,10 @@ cython_debug/
 
 
 credentials.json
+mc.exe
 
 
 
 
 
-
+/data

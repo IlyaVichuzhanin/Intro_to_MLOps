@@ -185,5 +185,11 @@ cython_debug/
 /mlruns
 
 
+credentials.json
+mc.exe
 
 
+
+
+
+/data

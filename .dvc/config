@@ -1,0 +1,6 @@
+[core]
+    remote = minio_storage
+['remote "minio_storage"']
+    url = s3://wychuzanin
+    use_ssl = false
+    endpointurl = http://89.223.69.137:9000

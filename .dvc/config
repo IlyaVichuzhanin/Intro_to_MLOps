@@ -1,6 +1,6 @@
 [core]
-    remote = minio_storage
-['remote "minio_storage"']
-    url = s3://wychuzanin
+    remote = s3_mlops
+['remote "s3_mlops"']
+    url = s3://mlops-2025/lesson5_serving_dvc
     use_ssl = false
     endpointurl = http://89.223.69.137:9000

@@ -184,6 +184,11 @@ cython_debug/
 /plugins
 /mlruns
 
+.idea/
+/model.joblib
+/model.pkl
+wandb/
+
 
 credentials.json
 mc.exe

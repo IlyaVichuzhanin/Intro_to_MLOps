@@ -189,6 +189,8 @@ cython_debug/
 /model.pkl
 wandb/
 
+*.pkl
+
 
 credentials.json
 mc.exe
